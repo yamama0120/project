@@ -52,4 +52,5 @@ new project
 後端入門
 ---
 >伺服器（Web Server）與資料庫（Database）
->
+
+[java備忘筆記](https://yubin551.gitbook.io/java-note/)
