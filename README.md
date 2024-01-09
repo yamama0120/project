@@ -69,7 +69,7 @@ new project
 
 學習地圖
 ---
-* 前端(瀏覽器)  
+* 前端(瀏覽器)  [筆記](https://github.com/yamama0120/project/blob/main/forward.md)
 1. html:建構網頁內容,賦予其含意.用途
 2. CSS:塑造網站的特殊風格
 3. RWD(串接):解決多種裝置顯示問題
