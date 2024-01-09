@@ -44,20 +44,19 @@ new project
 學習地圖
 ---
 * 前端
-1. html
-2. CSS
-3. RWD
-4. JavaScrip
-5. JQuery
-6. 框架-vue/react
+1. html:建構網頁內容,賦予其含意.用途
+2. CSS:塑造網站的特殊風格
+3. RWD:解決多種裝置顯示問題
+4. JavaScrip:增加互動功能 函式庫-JQuery
+5. 框架-vue/react  
 ↓
 瀏覽器
 ↓
 * 後端
 ↓
-伺服器
+伺服器  
 ↓
-1. API
+1. Java Restful API:解決'不同軟體互傳資料'的相容性
 2. java
 ↓
 資料庫
