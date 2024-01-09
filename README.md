@@ -41,16 +41,36 @@ new project
 
 
 
-前端入門
+學習地圖
 ---
->前端語言(html/CSS/js),瀏覽器
+* 前端
+1. html
+2. CSS
+3. RWD
+4. JavaScrip
+5. JQuery
+6. 框架-vue/react
+↓
+瀏覽器
+↓
+* 後端
+↓
+伺服器
+↓
+1. API
+2. java
+↓
+資料庫
+
+
+入門資源
+---
+**1. 前端**
 * [學習該如何開發Web](https://developer.mozilla.org/zh-TW/docs/Learn)
 * [金魚都懂的網頁學習路徑懶人包](https://ithelp.ithome.com.tw/articles/10228708)
 * [网站构建 初级教程](https://www.w3school.com.cn/web/index.asp)
 * [初心者的前端路線學習指南](https://medium.com/i-am-mike/%E5%88%9D%E5%BF%83%E8%80%85%E7%9A%84%E5%89%8D%E7%AB%AF%E8%B7%AF%E7%B7%9A%E5%AD%B8%E7%BF%92%E6%8C%87%E5%8D%97-895de088257f)
 
-後端入門
----
->伺服器（Web Server）與資料庫（Database）
+**2. 後端**
 
-[java備忘筆記](https://yubin551.gitbook.io/java-note/)
+* [java備忘筆記](https://yubin551.gitbook.io/java-note/)
