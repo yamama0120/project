@@ -83,10 +83,14 @@
 入門資源
 ---
 **0.轉職觀念 架構順序**
-* [胡立/學程式，不只是學程式](https://life.huli.tw/2018/10/29/learn-coding-9c572c2fb2/)
-* [胡立/先別急著寫 leetcode](https://lidemy.com/p/alg101-leetcode)
-* [胡立/程式導師實驗計畫第四期](https://github.com/Lidemy/mentor-program-4th)
-* [從教學者的角度看無經驗轉職以及課程選擇](https://www.ptt.cc/bbs/Soft_Job/M.1546655647.A.807.html)
+* [從教學者的角度看無經驗轉職以及課程選擇](https://www.ptt.cc/bbs/Soft_Job/M.1546655647.A.807.html)  
+
+課程1
+* [胡立/先別急著寫 leetcode](https://lidemy.com/p/alg101-leetcode)  
+
+課程2
+* [胡立/程式導師實驗計畫第四期](https://github.com/Lidemy/mentor-program-4th)  
+
 
 **1. 前端**
 * [學習該如何開發Web](https://developer.mozilla.org/zh-TW/docs/Learn)
