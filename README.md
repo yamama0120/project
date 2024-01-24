@@ -84,7 +84,7 @@
 ---
 **0.轉職觀念 架構順序**
 * [從教學者的角度看無經驗轉職以及課程選擇](https://www.ptt.cc/bbs/Soft_Job/M.1546655647.A.807.html)  
-
+* [鋰學院課程地圖](https://lidemy.com/p/roadmap)  
 課程1
 * [胡立/先別急著寫 leetcode](https://lidemy.com/p/alg101-leetcode)  
 
